@@ -13,3 +13,9 @@ All women are asked to join, and all men are asked to show their support.
 As we try to change the way men and women are treated in our country, we need both men and women to help us.
 
 Be the change and be a part of it by joining us, working with us, and helping us.
+
+Description: A website embedded in a voice assistant to help the visually impaired access it.
+● Technology: HTML, CSS, Javascript, pyttsx3, pywhatkit, DateTime, Wikipedia, pyjokes, webbrowser
+● Team Project: 3 members
+● Role: Project Co-lead
+
